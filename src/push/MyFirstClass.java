@@ -10,7 +10,7 @@ public class MyFirstClass {
 		System.out.println("Yea, he has graduated from George Town college!");
 	}
 	
-	public String showId(){
+	public void showId(){
 		System.out.println("Show your id at the front desk every time you enter to the college enterance");
 	}
 }
