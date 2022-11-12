@@ -14,4 +14,13 @@ public class MySecondClass {
 		int y = 10;
 		return x / y;
 	}
+	
+	public String whereIsHeLiving() {
+		return "He is living in Maryland state of the United States of America";
+	}
+	
+	public static void areYouExperienced(){
+		System.out.println("Yes, I have been working as an Automation Engineer for over two and half years now");
+}
+
 }
