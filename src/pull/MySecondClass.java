@@ -8,4 +8,10 @@ public class MySecondClass {
 	public String giveYourAdd () {
 		return "his address is 1131 University Blvd, Silver Spring";
 	}
+	
+	public static int divide() {
+		int x = 100;
+		int y = 10;
+		return x / y;
+	}
 }
